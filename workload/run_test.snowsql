@@ -1,0 +1,2 @@
+snowsql -c sfserver -d DV_BENCHMARK -s TPCH_SF1000_MD5 -w BENCHMARK_WH1_L -f d:\Benchmark\sql_test.sql -o output_file=d:\Benchmark\log1.log -o quiet=true
+exit
