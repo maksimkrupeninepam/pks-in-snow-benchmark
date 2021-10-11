@@ -1,0 +1,2 @@
+snowsql -c sfserver -d DV_BENCHMARK -f d:\Benchmark\load_sha2.sql -o output_file=d:\Benchmark\loadlog.log -o quiet=true
+exit
